@@ -1,3 +1,7 @@
 *.log
 Pipfile*
 .env
+__pycache__
+*.pyc
+.vscode
+.flaskenv
